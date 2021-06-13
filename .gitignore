@@ -9,9 +9,9 @@
 /coverage
 
 #firebase
-**/.firebase
-**/.github/workflows
-**/y
+/.firebase
+/.github/workflows
+/y
 .firebasesrc
 firebase.json
 
