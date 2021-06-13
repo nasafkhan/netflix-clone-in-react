@@ -11,7 +11,7 @@
 #firebase
 **/.firebase
 **/.github/workflows
-***/y
+**/y
 .firebasesrc
 firebase.json
 
