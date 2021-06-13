@@ -8,6 +8,13 @@
 # testing
 /coverage
 
+#firebase
+/.firebase
+/.github/workflows
+/y
+.firebasesrc
+firebase.json
+
 # production
 /build
 
