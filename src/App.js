@@ -14,6 +14,7 @@ function App() {
       <RowPost title={"Action"} url={fetchUrls.action} />
       <RowPost title={"Horror"} url={fetchUrls.horror} />
       <RowPost title={"Comedy"} url={fetchUrls.comedy} />
+      <RowPost title={"Horror"} url={fetchUrls.horror} />
     </div>
   );
 }
